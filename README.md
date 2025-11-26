@@ -4,7 +4,7 @@ Exercise VSCode and APP-MASTERS25-1
 <br>
 ## Exercise 1 : flash factory fw by VScode
 <br>
-
+open code which created by MPLAB X IDE.
 [ex1](ex1.md)<br>
 
 
