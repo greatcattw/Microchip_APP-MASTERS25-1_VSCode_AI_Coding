@@ -25,5 +25,5 @@ open/import code which created by MPLAB X IDE.
 [Build and program to device](ex3c.md)<br>
 
 
-## Exercise 4 : Timer LED1 test
-in progress
+# Exercise 4 : Blink LED1 by AI coding
+[ex4](ex4.md)<br>
