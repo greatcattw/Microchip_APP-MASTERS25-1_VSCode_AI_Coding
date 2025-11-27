@@ -13,6 +13,10 @@ select [MPLAB Project]<br><br>
 <br>![pic](pic3/26.png)<br>
 select [Proceed With Default Values]<br><br>
 
+<br>![pic](pic3/61.png)<br>
+wait<br><br>
+
+
 <br>![pic](pic3/27.png)<br>
 Message of ok for running MCC []<br>
 The graphical user interface is the same as MPLAB X IDE. <br><br>
@@ -28,6 +32,9 @@ Set GPIO of PA00 as LED1 <br><br>
 
 <br>![pic](pic3/30.png)<br>
 select [Project Resource][Generate]<br><br>
+
+<br>![pic](pic3/62.png)<br>
+select [Yes]<br><br>
 
 <br>![pic](pic3/31.png)<br>
 Message to check. Adding My_MCC_Config<br><br>
