@@ -1,4 +1,4 @@
-# Exercise Blink LED1 by AI
+# Exercise 4 : Blink LED1 by AI coding
 
 First, create a project and set PA00 as LED1 with MCC. It is the same as ex3.
 
