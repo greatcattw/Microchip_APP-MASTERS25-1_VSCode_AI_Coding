@@ -1,13 +1,18 @@
 # Microchip_APP-MASTERS25-1_VSCode
 Exercise VSCode and APP-MASTERS25-1
 <br>![pic](pic0/1.jpg)<br>
+hot key is ctrl+shift+e <br>
 <br>
 
 <br>![pic](pic0/00.png)<br>
 Button of explorer<br>
+
 <br>![pic](pic0/000.png)<br>
 This is [Command Palette]<br>
+Press ctrl+shift+p ,  show command palette with MPLAB task , usually use this. <br>
+Press ctrl+p , show command palette only, press ">" to show MPLAB task. <br>
 <br>
+
 ## Exercise 1 : flash factory fw by VScode
 <br>
 open/import code which created by MPLAB X IDE.
