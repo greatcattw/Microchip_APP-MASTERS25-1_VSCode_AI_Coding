@@ -2,6 +2,7 @@
 
 ## create a blank project 
 <br>![pic](pic21/11.png)<br>
+Press ctrl+shift+e to open Explorer dialog.
 Press button of [Exploer], select [Create MPLAB Project]<br><br>
 
 <br>![pic](pic21/12.png)<br>
@@ -25,13 +26,13 @@ Message of ok <br><br>
 ## build and program a blank project 
 
 <br>![pic](pic22/aa1.png)<br>
-press ">", select MPLAB CMake:Clean Build<br>
+press ctrl+shift+p , select MPLAB CMake:Clean Build<br>
 
 <br>![pic](pic22/aa2.png)<br>
 Message of build ok<br><br>
 
 <br>![pic](pic22/11.png)<br>
-press ">", select MPLAB:Program Device<br>
+press ctrl+shift+p , select MPLAB:Program Device<br>
 
 <br>![pic](pic22/aa3.png)<br>
 select hex file<br><br>
@@ -44,5 +45,6 @@ select MCU<br><br>
 
 <br>![pic](pic22/aa7.png)<br>
 Message of prgramming ok<br><br>
+
 
 
