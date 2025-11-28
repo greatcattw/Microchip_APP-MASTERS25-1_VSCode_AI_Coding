@@ -14,7 +14,7 @@ Press ctrl+shift+p ,  show command palette with MPLAB task , usually use this. <
 Press ctrl+p , show command palette only, press ">" to show MPLAB task. <br>
 <br>
 
-## Exercise 1 flash factory fw which is created by VScode
+## Exercise 1 : Using VSCode to flash factory fw which is created by MPLAB X IDE
 <br>
 open/import code which created by MPLAB X IDE.
 
