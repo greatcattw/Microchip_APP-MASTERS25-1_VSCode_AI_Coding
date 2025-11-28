@@ -13,13 +13,13 @@ Must select [Yes]<br>
 Select main.c , computer will run seconds<br>
 
 <br>![pic](pic1/9.png)<br>
-press ">", select MPLAB CMake:Clean Build<br>
+press ctrl+shift+p , select MPLAB CMake:Clean Build<br>
 
 <br>![pic](pic1/10.png)<br>
 Message of build ok<br><br>
 
 <br>![pic](pic1/11.png)<br>
-press ">", select MPLAB:Program Device<br>
+press ctrl+shift+p , select MPLAB:Program Device<br>
 
 <br>![pic](pic1/12.png)<br>
 select hex file<br><br>
