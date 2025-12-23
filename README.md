@@ -13,6 +13,8 @@ This is [Command Palette]<br>
 Press ctrl+shift+p ,  show command palette with MPLAB task , usually use this. <br>
 Press ctrl+p , show command palette only, press ">" to show MPLAB task. <br>
 <br>
+## Install VSCode with Microchip extension in ubuntu 22
+[ex0](ex00.md)<br>
 
 ## Exercise 1 : Using VSCode to flash factory fw which is created by MPLAB X IDE
 <br>
