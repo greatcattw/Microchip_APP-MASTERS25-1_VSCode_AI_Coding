@@ -57,7 +57,7 @@ sudo usermod -aG dialout \<username\> <br>
 [ex6](ex6.md)<br>
 
 # Exercise 7 : ADC, Data Visualizer, Time Plot, by AI coding
-![pic](pic7/s5.png)<br>
+![pic](pico/pic7/s5.png)<br>
 [ex7](ex7.md)<br>
 
 # Exercise 7 : OLED SSD1306
