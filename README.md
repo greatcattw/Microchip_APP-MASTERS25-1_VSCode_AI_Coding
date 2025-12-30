@@ -65,4 +65,4 @@ Please refer to the Masters_2025 teaching course / MCU / Lab3.<br>
 Reading the PDF to get more information.<br>
 The teaching course is for MPLAB X IDE.<br>
 It is ok for ubuntu 22 VSCode, too.<br>
-## In progress
+[ex8](ex8.md)<br>
