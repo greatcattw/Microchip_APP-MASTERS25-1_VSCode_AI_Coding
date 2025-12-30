@@ -15,7 +15,7 @@ Press ctrl+p , show command palette only, press ">" to show MPLAB task. <br>
 <br>
 ## Install VSCode with Microchip extension in ubuntu 22
 [ex0](ex00.md)<br>
-<br>![pic](pic00/f.png)<br>
+<br>![pic](pico/pic00/f.png)<br>
 
 ## Exercise 1 : Using VSCode to flash factory fw which is created by MPLAB X IDE
 <br>
