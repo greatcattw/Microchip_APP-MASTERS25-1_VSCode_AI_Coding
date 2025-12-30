@@ -1,14 +1,14 @@
 # Microchip_APP-MASTERS25-1_VSCode
 Exercise VSCode and APP-MASTERS25-1
-<br>![pic](pic0/1.jpg)<br>
+<br>![pic](pico/pic0/1.jpg)<br>
 <br>
 
 ## Important
-<br>![pic](pic0/00.png)<br>
+<br>![pic](pico/pic0/00.png)<br>
 Button of explorer<br>
 hot key is ctrl+shift+e <br>
 
-<br>![pic](pic0/000.png)<br>
+<br>![pic](pico/pic0/000.png)<br>
 This is [Command Palette]<br>
 Press ctrl+shift+p ,  show command palette with MPLAB task , usually use this. <br>
 Press ctrl+p , show command palette only, press ">" to show MPLAB task. <br>
