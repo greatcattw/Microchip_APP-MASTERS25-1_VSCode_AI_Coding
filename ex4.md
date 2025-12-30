@@ -29,3 +29,12 @@ I want to use while loop to do it.<br><br>
 Press button of [Accept All], AI will change the code at main.c<br><br>
 
 Finally, build code and program device.<br>
+
+# Ex4.2
+please help me coding. <br>
+I need a program for blinking LED with 500ms On and 500ms Off.<br>
+I want to use systick to delay.<br>
+MCU is PIC32CM3204GV00048.<br>
+I had set MCC below<br>
+- GPIO of PA00 as LED1.<br>
+- systick 100 ms<br>
