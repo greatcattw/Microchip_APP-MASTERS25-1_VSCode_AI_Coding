@@ -36,5 +36,5 @@ I need a program for blinking LED with 500ms On and 500ms Off.<br>
 I want to use systick to delay.<br>
 MCU is PIC32CM3204GV00048.<br>
 I had set MCC below<br>
-- GPIO of PA00 as LED1.<br>
-- systick 100 ms<br>
+-GPIO of PA00 as LED1.<br>
+-systick 100 ms<br>
