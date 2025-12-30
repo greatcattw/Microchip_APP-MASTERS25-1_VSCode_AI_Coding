@@ -50,7 +50,9 @@ It is ok for VSCode, too.<br>
 Please refer to the Masters_2025 teaching course / MCU / Lab2.<br>
 Reading the PDF to get more information.<br>
 The teaching course is for MPLAB X IDE.<br>
-It is ok for VSCode, too.<br>
+It is ok for win10 VSCode, too.<br>
+ubuntu 22  VSCode, need below command for ttyACM0: <br> 
+sudo usermod -aG dialout <username> <br>
 ![pic](pic6/s16.png)<br>
 [ex6](ex6.md)<br>
 
