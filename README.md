@@ -69,4 +69,4 @@ It is ok for ubuntu 22 VSCode, too.<br>
 [ex8](ex8.md)<br>
 
 ## Exercise 9 : Stream LED by AI Coding
-In[ex9](ex9.md)<br>
+[ex9](ex9.md)<br>
