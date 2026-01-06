@@ -35,18 +35,18 @@ Just turn on LED1.<br>
 [Build and program to device](ex3c.md)<br>
 
 
-# Exercise 4 : Blink LED1 by AI coding
+## Exercise 4 : Blink LED1 by AI coding
 [ex4](ex4.md)<br>
 
 
-# Exercise 5 : Blinking LED with timer callback
+## Exercise 5 : Blinking LED with timer callback
 Please refer to the Masters_2025 teaching course / MCU / Lab1.<br>
 Reading the PDF to get more information.<br>
 The teaching course is for MPLAB X IDE.<br>
 It is ok for VSCode, too.<br>
 [ex5](ex5.md)<br>
 
-# Exercise 6 : ADC with timer callback, Data Visualizer
+## Exercise 6 : ADC with timer callback, Data Visualizer
 Please refer to the Masters_2025 teaching course / MCU / Lab2.<br>
 Reading the PDF to get more information.<br>
 The teaching course is for MPLAB X IDE.<br>
@@ -56,14 +56,17 @@ sudo usermod -aG dialout \<username\> <br>
 ![pic](pico/pic6/s16.png)<br>
 [ex6](ex6.md)<br>
 
-# Exercise 7 : ADC, Data Visualizer, Time Plot, by AI coding
+## Exercise 7 : ADC, Data Visualizer, Time Plot, by AI coding
 ![pic](pico/pic7/s5.png)<br>
 [ex7](ex7.md)<br>
 
-# Exercise 8 : OLED SSD1306
+## Exercise 8 : OLED SSD1306
 Please refer to the Masters_2025 teaching course / MCU / Lab3.<br>
 Reading the PDF to get more information.<br>
 The teaching course is for MPLAB X IDE.<br>
 It is ok for ubuntu 22 VSCode, too.<br>
 ![pic](pico/pic8/s_sample.jpg)<br>
 [ex8](ex8.md)<br>
+
+## Exercise 9 : Stream LED by AI Coding
+In progress
