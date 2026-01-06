@@ -60,7 +60,7 @@ sudo usermod -aG dialout \<username\> <br>
 ![pic](pico/pic7/s5.png)<br>
 [ex7](ex7.md)<br>
 
-# Exercise 7 : OLED SSD1306
+# Exercise 8 : OLED SSD1306
 Please refer to the Masters_2025 teaching course / MCU / Lab3.<br>
 Reading the PDF to get more information.<br>
 The teaching course is for MPLAB X IDE.<br>
