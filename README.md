@@ -36,7 +36,7 @@ Just turn on LED1.<br>
 
 
 ## Exercise 4 : Blink LED1 by AI coding
-linux_vscode可以關開啟windows_MPLAB_X_IDE的專案<br>
+linux_vscode可以開啟windows_MPLAB_X_IDE的專案<br>
 所以建一個test01的資料夾<br>
 把windows_MPLAB_X_IDE的專案放到test01內<br>
 再用linux_vscode開啟test01,就可以快速完成MCC的設定步驟<br>
