@@ -36,10 +36,9 @@ Just turn on LED1.<br>
 
 
 ## Exercise 4 : Blink LED1 by AI coding
-linux_vscode可以開啟windows_MPLAB_X_IDE的專案<br>
-所以建一個test01的資料夾<br>
-把windows_MPLAB_X_IDE的pin_setting.X專案放到test01內<br>
-再用linux_vscode開啟test01,就可以快速完成MCC的設定步驟<br>
+evk_setting_lcd02.zip 是一個linux_vscode的專案, 已經設定好了LEDx4, ADC, UART, I2C for OLED.<br>
+解開後更名為test01,
+再用linux_vscode開啟資料夾test01,就可以快速完成MCC的設定步驟<br>
 實驗AI coding/prompt的功能<br>
 [ex4](ex4.md)<br>
 
