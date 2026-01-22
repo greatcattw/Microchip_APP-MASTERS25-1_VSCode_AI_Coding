@@ -74,3 +74,6 @@ It is ok for ubuntu 22 VSCode, too.<br>
 
 ## Exercise 9 : Stream LED by AI Coding
 [ex9](ex9.md)<br>
+
+## Exercise 11 : OLED draw
+![pic](pico/pic11_oled_draw/1.jpg)<br>
